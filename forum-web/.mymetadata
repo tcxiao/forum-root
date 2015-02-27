@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="forum-web"
+  id="myeclipse.1421641456863"
+  context-root="/forum"
+  j2ee-spec="6.0"
+  archive="forum-web.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

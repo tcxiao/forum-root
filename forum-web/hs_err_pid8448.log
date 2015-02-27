@@ -1,0 +1,170 @@
+#
+# An unexpected error has been detected by Java Runtime Environment:
+#
+#  EXCEPTION_ACCESS_VIOLATION (0xc0000005) at pc=0x6d9d57ed, pid=8448, tid=18124
+#
+# Java VM: Java HotSpot(TM) Client VM (11.3-b02 mixed mode windows-x86)
+# Problematic frame:
+# V  [jvm.dll+0x1257ed]
+#
+# If you would like to submit a bug report, please visit:
+#   http://java.sun.com/webapps/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x024ecc00):  JavaThread "JDWP Transport Listener: dt_socket" daemon [_thread_in_vm, id=18124, stack(0x0ca30000,0x0ca80000)]
+
+siginfo: ExceptionCode=0xc0000005, reading address 0x00000000
+
+Registers:
+EAX=0x00000000, EBX=0x024ecc00, ECX=0x0b9da670, EDX=0x00000000
+ESP=0x0ca7f8c4, EBP=0x00000000, ESI=0x00000000, EDI=0x024d8e5c
+EIP=0x6d9d57ed, EFLAGS=0x00010246
+
+Top of Stack: (sp=0x0ca7f8c4)
+0x0ca7f8c4:   024ecc00 00000000 024eceb8 0ca7f9d4
+0x0ca7f8d4:   0ca7f9d4 000000d4 024d8c04 024d8c00
+0x0ca7f8e4:   024d8d98 024d8c00 024ecc00 024ea908
+0x0ca7f8f4:   024d8a68 024d8c00 024d8e5c 0ca7fc90
+0x0ca7f904:   6d9d5e8a 00000000 024d8bf4 024ecc00
+0x0ca7f914:   0ca7f9d4 0ca7faac 00000951 0ca7f9d4
+0x0ca7f924:   024d8bf4 0ca7f9d4 0000000c 00000001
+0x0ca7f934:   00000001 024d8b50 024eceb8 024eceb8 
+
+Instructions: (pc=0x6d9d57ed)
+0x6d9d57dd:   30 8b 54 24 1c 89 44 24 44 8b 0a 8b 51 18 3b d5
+0x6d9d57ed:   8b 00 75 08 8b 49 08 89 48 18 eb 03 89 50 18 8b 
+
+
+Stack: [0x0ca30000,0x0ca80000],  sp=0x0ca7f8c4,  free space=318k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [jvm.dll+0x1257ed]
+
+[error occurred during error reporting (printing native stack), id 0xc0000005]
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+  0x0e839000 JavaThread "Abandoned connection cleanup thread" daemon [_thread_blocked, id=14912, stack(0x0f770000,0x0f7c0000)]
+  0x0db6f400 JavaThread "Resource Destroyer in BasicResourcePool.close()" daemon [_thread_blocked, id=20960, stack(0x0f6e0000,0x0f730000)]
+  0x0db6f000 JavaThread "Abandoned connection cleanup thread" daemon [_thread_blocked, id=16236, stack(0x0f650000,0x0f6a0000)]
+  0x0db6d000 JavaThread "http-8080-6" daemon [_thread_blocked, id=20176, stack(0x0f5c0000,0x0f610000)]
+  0x0db6cc00 JavaThread "http-8080-5" daemon [_thread_blocked, id=21056, stack(0x0f530000,0x0f580000)]
+  0x0db6c400 JavaThread "http-8080-4" daemon [_thread_blocked, id=9516, stack(0x0f4a0000,0x0f4f0000)]
+  0x0db6c000 JavaThread "http-8080-3" daemon [_thread_blocked, id=19556, stack(0x0f410000,0x0f460000)]
+  0x0db6bc00 JavaThread "http-8080-2" daemon [_thread_blocked, id=18604, stack(0x0f1d0000,0x0f220000)]
+  0x0d283c00 JavaThread "http-8080-1" daemon [_thread_blocked, id=20000, stack(0x0e170000,0x0e1c0000)]
+  0x0d283400 JavaThread "http-8080-Acceptor-0" daemon [_thread_in_native, id=17760, stack(0x0e0e0000,0x0e130000)]
+  0x0d012400 JavaThread "ContainerBackgroundProcessor[StandardEngine[localEngine]]" daemon [_thread_blocked, id=19580, stack(0x0e050000,0x0e0a0000)]
+  0x0da34000 JavaThread "Abandoned connection cleanup thread" daemon [_thread_blocked, id=15980, stack(0x0dfc0000,0x0e010000)]
+  0x0ccd0c00 JavaThread "Low Memory Detector" daemon [_thread_blocked, id=15804, stack(0x0cf10000,0x0cf60000)]
+  0x024fb400 JavaThread "CompilerThread0" daemon [_thread_blocked, id=16460, stack(0x0cc80000,0x0ccd0000)]
+  0x024eec00 JavaThread "JDWP Command Reader" daemon [_thread_in_native, id=9564, stack(0x0cbb0000,0x0cc00000)]
+  0x024ee400 JavaThread "JDWP Event Helper Thread" daemon [_thread_blocked, id=9224, stack(0x0cb20000,0x0cb70000)]
+=>0x024ecc00 JavaThread "JDWP Transport Listener: dt_socket" daemon [_thread_in_vm, id=18124, stack(0x0ca30000,0x0ca80000)]
+  0x024b0c00 JavaThread "Attach Listener" daemon [_thread_blocked, id=19680, stack(0x0c800000,0x0c850000)]
+  0x024b0000 JavaThread "Signal Dispatcher" daemon [_thread_blocked, id=13728, stack(0x0c770000,0x0c7c0000)]
+  0x0249f800 JavaThread "Finalizer" daemon [_thread_blocked, id=3860, stack(0x0c6e0000,0x0c730000)]
+  0x0249ac00 JavaThread "Reference Handler" daemon [_thread_blocked, id=17744, stack(0x0c650000,0x0c6a0000)]
+  0x004d9c00 JavaThread "main" [_thread_blocked, id=4176, stack(0x003b0000,0x00400000)]
+
+Other Threads:
+  0x02497800 VMThread [stack: 0x0c5c0000,0x0c610000] [id=11004]
+  0x024ffc00 WatcherThread [stack: 0x0cfa0000,0x0cff0000] [id=14700]
+
+VM state:not at safepoint (normal execution)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+Heap
+ def new generation   total 2944K, used 0K [0x04500000, 0x04830000, 0x049e0000)
+  eden space 2624K,   0% used [0x04500000, 0x04500000, 0x04790000)
+  from space 320K,   0% used [0x047e0000, 0x047e0000, 0x04830000)
+  to   space 320K,   0% used [0x04790000, 0x04790000, 0x047e0000)
+ tenured generation   total 39104K, used 21583K [0x049e0000, 0x07010000, 0x08500000)
+   the space 39104K,  55% used [0x049e0000, 0x05ef3fd8, 0x05ef4000, 0x07010000)
+ compacting perm gen  total 65536K, used 65535K [0x08500000, 0x0c500000, 0x0c500000)
+   the space 65536K,  99% used [0x08500000, 0x0c4ffcd8, 0x0c4ffe00, 0x0c500000)
+No shared spaces configured.
+
+Dynamic libraries:
+0x00400000 - 0x00424000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\bin\javaw.exe
+0x773a0000 - 0x77520000 	C:\Windows\SysWOW64\ntdll.dll
+0x75350000 - 0x75460000 	C:\Windows\syswow64\kernel32.dll
+0x75460000 - 0x754a7000 	C:\Windows\syswow64\KERNELBASE.dll
+0x76770000 - 0x76810000 	C:\Windows\syswow64\ADVAPI32.dll
+0x764b0000 - 0x7655c000 	C:\Windows\syswow64\msvcrt.dll
+0x75640000 - 0x75659000 	C:\Windows\SysWOW64\sechost.dll
+0x76850000 - 0x76940000 	C:\Windows\syswow64\RPCRT4.dll
+0x74a70000 - 0x74ad0000 	C:\Windows\syswow64\SspiCli.dll
+0x74a60000 - 0x74a6c000 	C:\Windows\syswow64\CRYPTBASE.dll
+0x76940000 - 0x76a40000 	C:\Windows\syswow64\USER32.dll
+0x763f0000 - 0x76480000 	C:\Windows\syswow64\GDI32.dll
+0x76dc0000 - 0x76dca000 	C:\Windows\syswow64\LPK.dll
+0x74fc0000 - 0x7505d000 	C:\Windows\syswow64\USP10.dll
+0x76c30000 - 0x76c90000 	C:\Windows\system32\IMM32.DLL
+0x75060000 - 0x7512c000 	C:\Windows\syswow64\MSCTF.dll
+0x7c340000 - 0x7c396000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\msvcr71.dll
+0x6d8b0000 - 0x6db06000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\client\jvm.dll
+0x74b90000 - 0x74bc2000 	C:\Windows\syswow64\WINMM.dll
+0x729f0000 - 0x72a3b000 	C:\Windows\system32\apphelp.dll
+0x6d340000 - 0x6d348000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\hpi.dll
+0x76db0000 - 0x76db5000 	C:\Windows\syswow64\PSAPI.DLL
+0x6d430000 - 0x6d459000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\jdwp.dll
+0x6d750000 - 0x6d756000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\npt.dll
+0x6d860000 - 0x6d86c000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\verify.dll
+0x6d3e0000 - 0x6d3ff000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\java.dll
+0x6d8a0000 - 0x6d8af000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\zip.dll
+0x6d2b0000 - 0x6d2b7000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\dt_socket.dll
+0x76810000 - 0x76845000 	C:\Windows\syswow64\WS2_32.dll
+0x76c90000 - 0x76c96000 	C:\Windows\syswow64\NSI.dll
+0x724c0000 - 0x724d0000 	C:\Windows\system32\NLAapi.dll
+0x73140000 - 0x7317c000 	C:\Windows\System32\mswsock.dll
+0x74580000 - 0x745c4000 	C:\Windows\system32\DNSAPI.dll
+0x724b0000 - 0x724b8000 	C:\Windows\System32\winrnr.dll
+0x724a0000 - 0x724b0000 	C:\Windows\system32\napinsp.dll
+0x72480000 - 0x72492000 	C:\Windows\system32\pnrpnsp.dll
+0x74750000 - 0x7476c000 	C:\Windows\system32\IPHLPAPI.DLL
+0x74740000 - 0x74747000 	C:\Windows\system32\WINNSI.DLL
+0x72330000 - 0x72368000 	C:\Windows\System32\fwpuclnt.dll
+0x72370000 - 0x72376000 	C:\Windows\system32\rasadhlp.dll
+0x725f0000 - 0x725f5000 	C:\Windows\System32\wshtcpip.dll
+0x6d6c0000 - 0x6d6d3000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\net.dll
+0x729e0000 - 0x729e6000 	C:\Windows\System32\wship6.dll
+0x6d6e0000 - 0x6d6e9000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\nio.dll
+0x6d610000 - 0x6d619000 	D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin\management.dll
+0x722b0000 - 0x722c6000 	C:\Windows\system32\CRYPTSP.dll
+0x72110000 - 0x7214b000 	C:\Windows\system32\rsaenh.dll
+0x74960000 - 0x74977000 	C:\Windows\system32\USERENV.dll
+0x74950000 - 0x7495b000 	C:\Windows\system32\profapi.dll
+
+VM Arguments:
+jvm_args: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:62694 -Dmaven.home=D:\Program Files\apache-maven-3.1.1 -Dclassworlds.conf=D:\workspace10\maven\.metadata\.plugins\org.eclipse.m2e.core\launches\m2conf8882971580823165431.tmp -Dfile.encoding=GBK 
+java_command: org.codehaus.classworlds.Launcher -B -s D:\maven\tools\settings.xml clean tomcat:run
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=D:\Program Files\jdk_1.6.31_32
+CLASSPATH=.;D:\Program Files\jdk_1.6.31_32\lib
+PATH=D:\Program Files (x86)\myeclipse10\Common\binary\com.sun.java.jdk.win32.x86_1.6.0.013\jre\bin;D:/Program Files (x86)/myeclipse10/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin/client;D:/Program Files (x86)/myeclipse10/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/bin;D:/Program Files (x86)/myeclipse10/Common/binary/com.sun.java.jdk.win32.x86_1.6.0.013/jre/lib/i386;D:\oracle11g\product\11.2.0\dbhome_1\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;D:\Program Files (x86)\TortoiseSVN\bin;D:\Program Files\jdk_1.6.31_32\bin;D:\Program Files\groovy-2.3.5\bin;D:\Program Files\apache-maven-3.0.5\bin;D:\Program Files (x86)\Git\bin;D:\Program Files (x86)\nodejs\;C:\Program Files\MySQL\MySQL Server 5.6\bin;C:\Users\Administrator\AppData\Roaming\npm
+USERNAME=Administrator
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 42 Stepping 7, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows NT 6.1 Build 7600 
+
+CPU:total 4 (8 cores per cpu, 2 threads per core) family 6 model 10 stepping 7, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, ht
+
+Memory: 4k page, physical 4104516k(683580k free), swap 4194303k(1089772k free)
+
+vm_info: Java HotSpot(TM) Client VM (11.3-b02) for windows-x86 JRE (1.6.0_13-b03), built on Mar  9 2009 01:15:24 by "java_re" with MS VC++ 7.1
+
+time: Thu Feb 05 16:40:31 2015
+elapsed time: 7420 seconds
+

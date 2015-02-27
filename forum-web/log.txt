@@ -1,0 +1,1138 @@
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
+Hibernate: HHH000228: Running hbm2ddl schema update
+Hibernate: HHH000102: Fetching database metadata
+Hibernate: HHH000396: Updating schema
+Hibernate: HHH000261: Table found: forum.board
+Hibernate: HHH000037: Columns: [id, description, name, category_id, datecreated, threadcount, last_thread_id, replycount, deleted, last_reply_id, version]
+Hibernate: HHH000108: Foreign keys: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, fk3d5fec66ad9becf]
+Hibernate: HHH000126: Indexes: [fk3d5fec6b0a9bac5, fk3d5fec6264dffae, primary, fk3d5fec66ad9becf]
+Hibernate: HHH000261: Table found: forum.category
+Hibernate: HHH000037: Columns: [id, name, datecreated, deleted, version]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: HHH000261: Table found: forum.reply
+Hibernate: HHH000037: Columns: [content, id, title, floor, author_id, datecreated, ipcreated, thread_id, deleted, version]
+Hibernate: HHH000108: Foreign keys: [fk4b322ca73c3f12e, fk4b322ca21d82f58]
+Hibernate: HHH000126: Indexes: [fk4b322ca73c3f12e, fk4b322ca21d82f58, primary]
+Hibernate: HHH000261: Table found: forum.thread
+Hibernate: HHH000037: Columns: [author_last_replied_id, datecreated, board_id, deleted, replycount, version, id, content, topped, title, hit, datelastreplied, author_id, ipcreated, readonly]
+Hibernate: HHH000108: Foreign keys: [fk9545fa2a21d82f58, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000126: Indexes: [fk9545fa2a21d82f58, primary, fk9545fa2a7238bbf, fk9545fa2ac09b45c6]
+Hibernate: HHH000261: Table found: forum.board_administrator
+Hibernate: HHH000037: Columns: [person_id, board_id]
+Hibernate: HHH000108: Foreign keys: [fkbdef7934c09b45c6, fkbdef7934fcbee94e]
+Hibernate: HHH000126: Indexes: [fkbdef7934c09b45c6, primary, fkbdef7934fcbee94e]
+Hibernate: HHH000261: Table found: forum.person
+Hibernate: HHH000037: Columns: [birthday, sex, iplastactived, date_created, datecreated, deleted, password, version, id, date_last_actived, ip_created, email, name, account, ipcreated, datelastactived]
+Hibernate: HHH000108: Foreign keys: []
+Hibernate: HHH000126: Indexes: [primary]
+Hibernate: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: HHH000388: Unsuccessful: create table user (user_id integer not null auto_increment, ent_id integer, login_name varchar(50), login_pass varchar(30), user_age tinyint, user_birthday datetime, user_name varchar(50), user_sex varchar(2), primary key (user_id)) type=InnoDB
+Hibernate: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'type=InnoDB' at line 11
+Hibernate: HHH000232: Schema update complete
