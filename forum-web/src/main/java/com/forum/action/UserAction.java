@@ -19,7 +19,7 @@ import com.forum.util.Pagination;
 
 @Controller
 @RequestMapping(value="/user")
-public class UserAction extends BaseAction {
+public class UserAction extends BaseAction{
 	
 	@Autowired
 	private IPersonService personServiceImpl;

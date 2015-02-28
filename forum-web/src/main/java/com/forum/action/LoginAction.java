@@ -1,10 +1,8 @@
 package com.forum.action;
 
 import java.util.Date;
-import java.util.List;
 
 import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
 
 import org.apache.shiro.SecurityUtils;
 import org.apache.shiro.authc.AuthenticationException;
@@ -15,9 +13,7 @@ import org.apache.shiro.authc.UnknownAccountException;
 import org.apache.shiro.authc.UsernamePasswordToken;
 import org.apache.shiro.subject.Subject;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Required;
 import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -26,13 +22,12 @@ import org.springframework.web.servlet.ModelAndView;
 import org.springframework.web.servlet.view.InternalResourceViewResolver;
 
 import com.forum.model.Person;
-import com.forum.model.User;
 import com.forum.service.IPersonService;
 import com.forum.service.IUserService;
 import com.forum.util.MD5Util;
 
 @Controller
-public class LoginAction {
+public class LoginAction extends BaseAction{
 	
 	@Autowired
 	private IUserService userServiceImpl;
@@ -52,7 +47,6 @@ public class LoginAction {
 		String resultPageURL = InternalResourceViewResolver.REDIRECT_URL_PREFIX + "/";
 		UsernamePasswordToken utoken=new UsernamePasswordToken(username, MD5Util.calc(password));
 		utoken.setRememberMe(true);
-		Integer.parseInt("sss");
 		Subject currentUser = SecurityUtils.getSubject();
 		try {  
             //在调用了login方法后,SecurityManager会收到AuthenticationToken,并将其发送给已配置的Realm执行必须的认证检查  

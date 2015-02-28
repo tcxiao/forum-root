@@ -1,6 +1,19 @@
 package com.forum.action;
 
-public class BaseAction {
+import javax.servlet.http.HttpServletRequest;
+
+import org.springframework.web.bind.annotation.ExceptionHandler;
+
+public abstract class BaseAction {
+	
+	@ExceptionHandler
+	public String exception(HttpServletRequest request,Exception ex){
+		ex.printStackTrace();
+		if(ex instanceof NumberFormatException){
+			return "number";
+		}
+		return "error";
+	}
 	
 	/**
 	 * 设置JSON字符串信息
